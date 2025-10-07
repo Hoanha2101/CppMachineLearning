@@ -1,0 +1,44 @@
+1. Khám phá sản phẩm (Product Discovery)
+
+Gợi ý sản phẩm theo danh mục: Khách hỏi “có laptop không?”, bot trả danh sách laptop kèm giá, mô tả ngắn.
+Tìm sản phẩm theo từ khóa: Khách hỏi “cho tôi điện thoại iPhone 14 Pro”, bot tìm đúng sản phẩm.
+So sánh sản phẩm: Khách có thể so sánh 2 sản phẩm (ví dụ iPhone 14 vs Samsung S23).
+Hiển thị sản phẩm nổi bật/khuyến mãi: Bot chủ động gợi ý sản phẩm đang giảm giá.
+
+2. Hỗ trợ đặt hàng (Order Assistance)
+
+Tạo đơn hàng mới: Khi khách chọn sản phẩm, bot thêm vào giỏ hàng, hỏi “bạn muốn mua mấy cái?”.
+Hiển thị giỏ hàng: Cho khách xem giỏ hàng hiện tại.
+Xác nhận & thanh toán: Bot hỏi địa chỉ, số điện thoại, phương thức thanh toán.
+Theo dõi đơn hàng: Khách có thể hỏi “Đơn hàng #1234 của tôi đang ở đâu?”.
+
+3. Quản lý tài khoản khách hàng (Customer Management)
+
+Đăng ký khách hàng mới: Khi khách mua lần đầu → bot xin thông tin (tên, email, số điện thoại, địa chỉ).
+Tra cứu thông tin khách hàng: Khách có thể hỏi “Thông tin của tôi lưu thế nào?”.
+Cập nhật thông tin cá nhân: Bot cho phép chỉnh sửa (VD: đổi số điện thoại).
+
+4. Chăm sóc sau bán hàng (After-Sales Support)
+
+Bảo hành sản phẩm: Khách có thể hỏi “Laptop của tôi còn bảo hành không?”.
+Hướng dẫn sử dụng: Ví dụ khách hỏi “Cách cài đặt Windows trên laptop vừa mua?”.
+Trả hàng/hoàn tiền: Khách có thể yêu cầu đổi/trả hàng.
+
+5. Marketing & Upsell
+
+Gợi ý sản phẩm kèm theo: Nếu mua laptop, bot có thể gợi ý “Bạn có muốn mua thêm chuột không?”.
+Thông báo khuyến mãi: “Hôm nay giảm giá 20% cho tai nghe, bạn có muốn xem không?”.
+Khuyến khích quay lại: Nếu khách lâu không tương tác, bot nhắc “Sản phẩm bạn quan tâm đang giảm giá”.
+
+6. Trợ lý thông minh
+
+Ngôn ngữ tự nhiên: Bot hiểu câu hỏi tự do của khách (“tôi cần mua điện thoại pin trâu giá dưới 10 triệu”).
+Hỏi lại khi thiếu thông tin: Nếu khách chỉ nói “tôi muốn mua laptop”, bot hỏi tiếp “Bạn muốn màn hình bao nhiêu inch, khoảng giá bao nhiêu?”.
+Cá nhân hóa: Nếu khách hay mua đồ điện tử, bot ưu tiên gợi ý nhóm này.
+
+7. Tính năng mở rộng nâng cao
+
+Chatbot đa kênh: Có thể chạy trên web, Facebook, Zalo, Messenger.
+Thanh toán trực tiếp trong chat: Liên kết với Momo, ZaloPay, hoặc thẻ ngân hàng.
+Nhận diện giọng nói: Khách có thể nói thay vì gõ.
+Hình ảnh sản phẩm: Bot gửi ảnh minh họa đẹp thay vì chỉ chữ.
